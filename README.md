@@ -18,21 +18,35 @@ This project aims to enhance the efficiency of urban waste management through a 
 
 ## Installation
 Clone the Repository:
-git clone https://github.com/yourusername/garbage-tracking-system.git
-cd garbage-tracking-system
+ - git clone https://github.com/yourusername/garbage-tracking-system.git
+ - cd garbage-tracking-system
 
 Install Dependencies:
 
-pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 Set Up Database:
-Configure your database settings in config/database.yml.
+  - Configure your database settings in config/database.yml.
 
 Run database migrations:
-python manage.py migrate
+  - python manage.py migrate
 
 Run the Application:
 python manage.py runserver
+
+## Usage
+Access the Dashboard:
+Navigate to http://localhost:8000 in your web browser.
+Log in with your credentials.
+
+Monitor Vehicles:
+View real-time locations of all garbage collection vehicles on the map.
+
+Adjust Routes:
+Use the interface to make dynamic changes to routes as needed.
+
+Review Reports:
+Access performance reports and feedback data for analysis.
 
 ## Contributing
 
