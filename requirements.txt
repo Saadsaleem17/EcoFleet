@@ -1,0 +1,44 @@
+# Basic packages for data handling and numerical operations
+pandas==2.1.1
+numpy==1.26.0
+
+# For data visualization and reporting
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# IoT and real-time data handling
+paho-mqtt==1.6.1          # For MQTT protocol for IoT data
+requests==2.31.0          # For making API requests (e.g., traffic data)
+sseclient==0.0.27         # For handling server-sent events (e.g., real-time data updates)
+
+# GPS and Geo-fencing
+geopy==2.3.0              # For geolocation and distance calculations
+geofencepy==0.1.1         # For geo-fencing operations (if available)
+h3==4.1.0                 # For hex-based geospatial indexing
+
+# Route optimization and algorithms
+networkx==3.2             # For graph-based algorithms and route optimization
+ortools==9.6.2534         # Google OR-Tools for route optimization
+
+# Machine learning (optional for advanced route optimization)
+scikit-learn==1.3.0       # For ML models and analysis
+xgboost==1.7.6            # For gradient boosting-based optimization (optional)
+
+# Driver behavior monitoring
+statsmodels==0.14.0       # For statistical analysis of driver behavior data
+
+# Real-time dashboards and customer interface
+flask==3.1.2              # For a web-based dashboard interface
+dash==2.14.1              # For interactive dashboards
+plotly==5.16.2            # For plotting interactive data
+
+# Database interaction
+sqlalchemy==2.1.1         # For database ORM and queries
+psycopg2-binary==2.9.8    # For PostgreSQL connection (replace with appropriate database connector)
+
+# Environment and sustainability calculations
+sympy==1.12               # For symbolic math (useful in emissions calculation models)
+
+# Optional monitoring and testing tools
+pytest==7.4.2             # For testing the components and modules
+loguru==0.7.0             # For structured logging
