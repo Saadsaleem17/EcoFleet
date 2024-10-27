@@ -16,7 +16,7 @@ This project aims to enhance the efficiency of urban waste management through a 
 - **Feedback Collection**: Gathers input from drivers and customers to continuously improve operations.
 - **Data Analysis for Optimization**: Analyzes collected data to refine routes and enhance overall efficiency.
 
-##Installation
+## Installation
 Clone the Repository:
 git clone https://github.com/yourusername/garbage-tracking-system.git
 cd garbage-tracking-system
