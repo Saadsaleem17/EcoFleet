@@ -35,18 +35,18 @@ Run the Application:
 python manage.py runserver
 
 ## Usage
-Access the Dashboard:
-Navigate to http://localhost:8000 in your web browser.
-Log in with your credentials.
+- Access the Dashboard:
+- Navigate to http://localhost:8000 in your web browser.
+- Log in with your credentials.
 
 Monitor Vehicles:
-View real-time locations of all garbage collection vehicles on the map.
+- View real-time locations of all garbage collection vehicles on the map.
 
 Adjust Routes:
-Use the interface to make dynamic changes to routes as needed.
+- Use the interface to make dynamic changes to routes as needed.
 
 Review Reports:
-Access performance reports and feedback data for analysis.
+- Access performance reports and feedback data for analysis.
 
 ## Contributing
 
