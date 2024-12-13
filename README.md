@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to enhance the efficiency of urban waste management through a comprehensive vehicle tracking and route management system. By leveraging GPS technology and data analytics, the system optimizes garbage collection routes, improves service reliability, and enhances customer satisfaction.
+This project aims to enhance the efficiency of urban waste management through a comprehensive vehicle tracking and route management system. By leveraging GPS technology and data analytics, the system optimizes garbage collection routes, improves service reliability, and enhances customer satisfaction. This project is completed and would not be further updated please leave a comment if you find a bug
 
 ## Features
 
@@ -57,3 +57,4 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add YourFeature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
+   
