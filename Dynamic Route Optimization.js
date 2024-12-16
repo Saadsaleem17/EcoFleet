@@ -30,6 +30,6 @@ setInterval(async () => {
     const fillLevelData = await getFillLevelData(); // Function to fetch current fill level data
     const optimizedRoutes = await optimizeRoutes(currentRoutes, fillLevelData);
     
-    // Send optimized routes to drivers or update dashboard
+
     sendToDrivers(optimizedRoutes);
-}, 300000); // Optimize routes every 5 minutes
+}, 300000);

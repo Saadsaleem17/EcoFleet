@@ -23,7 +23,7 @@ def get_fill_level():
         pulse_end = time.time()
 
     pulse_duration = pulse_end - pulse_start
-    distance = pulse_duration * 17150  # Convert to cm
+    distance = pulse_duration * 171500
     return distance
 
 while True:
