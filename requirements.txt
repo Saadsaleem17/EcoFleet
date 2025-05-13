@@ -11,7 +11,7 @@ paho-mqtt==1.6.1          # For MQTT protocol for IoT data
 requests==2.31.0          # For making API requests (e.g., traffic data)
 sseclient==0.0.27         # For handling server-sent events (e.g., real-time data updates)
 
-# GPS and Geo-fencing
+# GPS and Geo-fenci
 geopy==2.3.0              # For geolocation and distance calculations
 geofencepy==0.1.1         # For geo-fencing operations (if available)
 h3==4.1.0                 # For hex-based geospatial indexing
